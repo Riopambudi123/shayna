@@ -1,0 +1,2 @@
+# shayna
+Projeck aplikasi vue
